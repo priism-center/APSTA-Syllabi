@@ -16,13 +16,13 @@ Course syllabi for the Applied Statistics for Social Science Research (A3SR) mas
 <br>
 [Advanced Causal Inference: APSTA-GE 2018](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/%20APSTA-GE%202018%20ADVANCED%20CAUSAL%20INFERENCE%20DESIGNS%20AND%20APPLICATIONS%20.pdf)
 <br>
-[Basic Statistics: APSTA-GE 2085](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202085%20Basic%20Statistics.pdf)
-<br>
 [Generalized Linear and Mixed Models: APSTA-GE 2044](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202044%20Generalized%20Linear%20and%20Mixed%20Models%20.pdf)
 <br>
 [Messy Data and Machine Learning: APSTA-GE 2047](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202047_%20Messy%20Data%20and%20Machine%20Learning.pdf)
 <br>
 [Ethics of Data Science: APSTA-GE 2062](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202062%20Ethics%20of%20Data%20Science.pdf)
+<br>
+[Basic Statistics: APSTA-GE 2085](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202085%20Basic%20Statistics.pdf)
 <br>
 [Applied Statistics Large Database in Applied Research: APSTA-GE 2110](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202110%20Applied%20Statistics_%20Large%20Database%20in%20Applied%20Research.pdf)
 <br>
