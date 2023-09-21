@@ -1,6 +1,7 @@
 # APSTA-Syllabi
 Course syllabi for the Applied Statistics for Social Science Research (A3SR) masters program
 <br>
+<br>
 [Statistics for the Behavioral and Social Sciences I: APSTA-GE 2001](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE-2001.pdf)
 <br>
 [Statistics for the Behavioral and Social Sciences II: APSTA-GE 2002](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202002%20Statistics%20for%20the%20Behavioral%20and%20Social%20Sciences%20II.pdf)
