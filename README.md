@@ -37,4 +37,4 @@ Course syllabi for the Applied Statistics for Social Science Research (A3SR) mas
 <br>
 [Statistical Computing: APSTA-GE 2352](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE%202352%20Statistical%20Computing.pdf)
 <br>
-[APSTA-GE 2355 Data Science Translation](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE%202355%20Data%20Science%20Translation.pdf)
+[Data Science Translation: APSTA-GE 2355](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE%202355%20Data%20Science%20Translation.pdf)
