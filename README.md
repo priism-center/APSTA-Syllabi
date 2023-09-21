@@ -1,9 +1,9 @@
 # APSTA-Syllabi
 Course syllabi for the Applied Statistics for Social Science Research (A3SR) masters program
 <br>
-[Statistical Consulting: APSTA-GE 2401](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE%202401%2C%20Statistical%20Consulting%2C%20syllabus%2C%20Fall%202022.pdf)
+[Statistical Consulting: APSTA-GE 2401](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202401%2C%20Statistical%20Consulting%2C%20syllabus%2C%20Fall%202022.pdf)
 <br>
-[Advanced Causal Inference: APSTA-GE 2018](https://github.com/priism-center/APASTA-Syllabi/blob/main/%20APSTA-GE%202018%20ADVANCED%20CAUSAL%20INFERENCE%20DESIGNS%20AND%20APPLICATIONS%20.pdf)
+[Advanced Causal Inference: APSTA-GE 2018](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/%20APSTA-GE%202018%20ADVANCED%20CAUSAL%20INFERENCE%20DESIGNS%20AND%20APPLICATIONS%20.pdf)
 <br>
 [Statistics for the Behavioral and Social Sciences I: APSTA-GE 2001](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE-2001.pdf)
 <br>
