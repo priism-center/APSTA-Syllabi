@@ -25,7 +25,7 @@ Course syllabi for the Applied Statistics for Social Science Research (A3SR) mas
 <br>
 [Basic Statistics: APSTA-GE 2085](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE%202085%20Basic%20Statistics.pdf)
 <br>
-[Applied Statistics_ Large Database in Applied Research: APSTA-GE 2110](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE%202110%20Applied%20Statistics_%20Large%20Database%20in%20Applied%20Research.pdf)
+[Applied Statistics Large Database in Applied Research: APSTA-GE 2110](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE%202110%20Applied%20Statistics_%20Large%20Database%20in%20Applied%20Research.pdf)
 <br>
 [Bayesian Inference: APSTA-GE 2123](https://github.com/priism-center/APASTA-Syllabi/blob/main/APSTA-GE%202123_%20Bayesian%20Inference.pdf)
 <br>
