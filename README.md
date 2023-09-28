@@ -16,6 +16,8 @@ Course syllabi for the Applied Statistics for Social Science Research (A3SR) mas
 <br>
 [Advanced Causal Inference: APSTA-GE 2018](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/%20APSTA-GE%202018%20ADVANCED%20CAUSAL%20INFERENCE%20DESIGNS%20AND%20APPLICATIONS%20.pdf)
 <br>
+[MLM Nested and Longitudinal: APSTA-GE 2042](https://github.com/priism-center/APSTA-Syllabi/blob/main/syllabi/APSTA-GE%202042%20Fa23%20MLM%20Nested%20and%20Longitudinal.pdf)
+<br>
 [Generalized Linear and Mixed Models: APSTA-GE 2044](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202044%20Generalized%20Linear%20and%20Mixed%20Models%20.pdf)
 <br>
 [Messy Data and Machine Learning: APSTA-GE 2047](https://github.com/priism-center/APASTA-Syllabi/blob/main/syllabi/APSTA-GE%202047_%20Messy%20Data%20and%20Machine%20Learning.pdf)
